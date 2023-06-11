@@ -3,7 +3,7 @@
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "https://chatbot.theb.ai/$1"
+      "dest": "https://raw.githubusercontent.com/$1"
     }
   ]
 }
