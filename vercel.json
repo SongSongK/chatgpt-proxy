@@ -3,7 +3,8 @@
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "https://chat.sskk.cf/$1"
+      //"dest": "https://chat.sskk.cf/$1"
+      "dest": "bai-chat-proxy.201016078.workers.dev/$1"
     }
   ]
 }
