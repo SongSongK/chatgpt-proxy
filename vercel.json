@@ -3,7 +3,7 @@
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "bai-chat-proxy.201016078.workers.dev/$1"
+      "dest": "https://bai-chat-proxy.201016078.workers.dev/$1"
     }
   ]
 }
